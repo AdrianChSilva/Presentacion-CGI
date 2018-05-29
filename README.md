@@ -1,2 +1,7 @@
-# Presentacion-CGI
-Exposición de mi experiencia personal en los primeros meses de DUAL en CGI
+# Empresa
+
+# Proyectos
+
+# Herramientas y tecnologías utilizadas
+
+# Valoración personal y otras observaciones
