@@ -9,3 +9,5 @@ Todos los proyectos realizados han sido didácticos.
 # Herramientas y tecnologías utilizadas
 Spring tool suite, Maven, Gitlab y Srping boot
 # Valoración personal y otras observaciones
+
+# Presentación: https://slides.com/adrichs/deck
